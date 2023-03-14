@@ -266,18 +266,36 @@ Let's do the same for **Australian** results:
 **F < F<sub>predefined</sub>**, it means that null hypothesis is accepted. It means Australian groups are equal too and what we see as difference in response time between different Category ID is explained by the random noise. 
 ### And one more thing...
 I was quite insterested in how server behaves under uncontrolled flood of requests and made couple of extra experiments.
-The experiment was designed in a simple ramp up with with requests falling to server as much as vu can (according to the response time), i.e. there are no delays implemented and thus vu are only limited by the speed of the server. I've included several stages starting from 10 and up to 600 vu.
+The experiment was designed in a simple ramp up with with requests falling to server as much as vu can (according to the response time), i.e. there are no delays implemented and thus vu are only limited by the speed of the server. I've included several stages starting from 10 and up to 600 vu. This is being done from **Australia location** to minimize all possible delays.
 
 Here are things I've found.
 
 | <img src="supporting_report_files/responseVSvu-aus.png" width="500">  | <img src="supporting_report_files/requestsVSvu-aus.png" width="500"> |
 | --- | --- |
 
-The more vus are initialized the more response time degradation is observed. This is probably due to requests are being put into server's queue for processing. But at the same time quantity of requests is not growing
+Quantity of requests is not growing during the test, though we increase quantity of vus. This may be related to the kind of throttling, when server rejects requests above maximum threshold, but I **didn't** receive just **any non-200xx** response, meaning **all** requests are being **fairly processed**. Also, metrics of **http_req_blocked**, **http_req_connecting**, **http_req_tls_handshaking** are not growing significantly staying inside **dozens of microseconds**, meaning that we don't experience significant delays in sending requests. At the same time the more vus are initialized the more response time degradation is observed. This is most probably due to requests are being put into server's queue for processing. If we return to [Virtual users / threads concept](#virtual-users--threads-concept) (oooph, once again :)), we can calculate how much requests we can potentially make based on server's response. It will be:
+
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/13483378/224925921-dcf11ae9-64bd-457e-a559-85a8671063c3.png">
+
+This formula means that if vu quantity producing load progresses as fast as response time increase, then theoretical throughput will be constant. That is confirmed by the following chart with calculated and real throughput.
+
+<img src="supporting_report_files/realVSpotential_aus.png" width="500">
+
+At the same time we may notice that during first 10 minutes, server handled spike of 300 rps. This may be related to some maintenance with the server at the moment, some workload from others absense or clever mechanism of throttling, when everything which is coming from the same IP massively is being put to the queue. Also, it may be some other people DDoSing this server at the same time and I just don't know it. I need to note here that if we were not able to reach that level once again, it may be considered as some anomaly and should be investigated.
+
+I've repeated experiment with only two levels of 10 and 20 vus and got **the same** constant **~150 rps** with response time increase from **~60ms** to **~120ms** after vu increase. 
+
+During these experiments I found that a VM with 512 MB of RAM and 1 CPU can successfully handle no more than **150-170** vus running. With more it starts swaping and unpleasantly hangs.
 
 ### Conclusions
+- Provided server is able to handle **10 rps** by vus within provided threshold of **500ms**, even when the client is far away from the server. We should note that **70ms** to server is practically maximum ping which will allow to stay within given the threshold.
+- Categories with **id = 6331** always fail functional check **CanRelist=true**, since their param is CanRelist=false.
+- Response time for different categories **doesn't statistically differ** from each other.
+- Maximum found fair throughput of the API server seems to lie **around 150 rps**.
+- VM of **1 CPU / 512 RAM** can handle around **150-170 vus** with simple load as in requirements. VM of **2 CPU / 4 GB RAM** can handle at least **600** vus.
 
 ### Formal raw results
+Right-click and save as.
 
 | Georgia | Australia |
 | --- | --- |
