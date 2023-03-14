@@ -50,7 +50,9 @@ Service messages on timestamp, category id and response time are thrown into con
 All necessary code comments were put into **script.js**.
 
 # Installation
-Download **k6**, **script.js** and **res_proc.sh** and put to the folder where your user has write permissions.
+Download **k6-dist.tar.gz**, put to the folder where your user has write permissions, unarchive.
+
+If you need k6 for ARM architecture, please use **k6-arm-dist.tar.gz**
 
 # Usage
 ```bash
