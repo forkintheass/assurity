@@ -315,10 +315,11 @@ During these experiments I found that a VM with 512 MB of RAM and 1 CPU can succ
 ### Formal raw results
 Right-click and save as.
 
-| Georgia | Australia |
+| 🇬🇪Georgia | 🇦🇺Australia |
 | --- | --- |
 |  [html](report_georgia/report.html) | [html](report_australia/report.html)|
 | [2023-03-13T17-28-09.csv](https://raw.githubusercontent.com/forkintheass/assurity/main/report_georgia/2023-03-13T17-28-09.csv)|[2023-03-13T22-07-43.csv](https://raw.githubusercontent.com/forkintheass/assurity/main/report_australia/2023-03-13T22-07-43.csv) |
+|[Common report with more details I've been talking about](https://github.com/forkintheass/assurity/blob/main/report_final.tar.gz?raw=true)| |
 
 # Known issues
 
