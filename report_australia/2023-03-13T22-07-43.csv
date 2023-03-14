@@ -1,0 +1,632 @@
+2023-03-13T22:07:44.622Z,23.24196,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:45.128Z,26.981713,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:45.603Z,21.839266,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:45.728Z,124.566562,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:46.104Z,20.587259,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:46.125Z,19.747765,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:46.701Z,120.319845,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:46.707Z,121.365505,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:46.719Z,112.029097,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:47.109Z,21.672783,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:47.114Z,31.765646,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:47.134Z,25.604937,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:47.607Z,25.442662,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:47.616Z,32.167327,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:47.621Z,32.218441,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:47.628Z,17.899328,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:48.108Z,24.794421,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:48.113Z,22.825994,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:48.119Z,32.948516,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:48.151Z,39.051753,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:48.603Z,22.378907,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:48.609Z,24.122524,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:48.614Z,22.227381,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:48.632Z,17.400749,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:48.703Z,115.350558,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:49.110Z,27.18333,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:49.127Z,37.505616,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:49.146Z,52.905776,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:49.149Z,62.315543,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:49.157Z,40.784559,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:49.616Z,31.123644,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:49.624Z,28.800992,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:49.626Z,35.490867,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:49.643Z,25.3474,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:49.701Z,113.430336,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.116Z,29.282199,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.119Z,29.956188,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:50.131Z,33.730975,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.133Z,40.97552,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.139Z,19.774493,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.618Z,30.35074,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.625Z,33.347034,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.634Z,40.617858,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.641Z,41.662271,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:50.645Z,24.234831,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:51.116Z,25.394744,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:51.122Z,29.554754,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:51.128Z,28.045022,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:51.133Z,38.428801,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:51.143Z,20.710963,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:51.624Z,27.890082,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:51.628Z,35.29541,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:51.638Z,35.426377,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:51.640Z,46.26346,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:51.645Z,20.435417,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:52.120Z,21.661391,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:52.122Z,26.951114,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:52.125Z,30.89123,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:52.141Z,15.61537,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:52.216Z,112.978854,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:52.626Z,29.148641,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:52.627Z,27.25026,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:52.631Z,35.719985,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:52.646Z,41.60008,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:52.649Z,21.808136,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:53.126Z,28.271166,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:53.129Z,32.05567,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:53.133Z,26.568337,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:53.138Z,35.976832,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:53.146Z,18.187485,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:53.629Z,29.318667,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:53.631Z,23.13894,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:53.641Z,37.513438,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:53.643Z,42.925135,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:53.647Z,17.996013,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:54.119Z,17.714943,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:54.138Z,36.428432,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:54.145Z,39.50884,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:54.148Z,38.397395,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:54.155Z,24.346165,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:54.625Z,21.660299,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:54.634Z,31.750232,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:54.638Z,31.30872,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:54.641Z,28.879926,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:54.648Z,14.908489,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:55.128Z,23.788612,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:55.133Z,27.606792,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:55.155Z,19.693698,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:55.229Z,115.468423,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:55.245Z,137.066167,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:55.631Z,25.142078,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:55.639Z,32.896645,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:55.644Z,35.029532,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:55.647Z,31.640582,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:55.656Z,19.382352,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:56.132Z,23.809665,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:56.141Z,33.468143,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:56.148Z,36.572346,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:56.149Z,32.276163,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:56.155Z,16.625395,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:56.634Z,23.839008,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:56.641Z,28.075239,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:56.651Z,41.802095,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:56.655Z,36.239399,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:56.659Z,19.114589,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:57.135Z,23.338088,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:57.141Z,29.159378,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:57.151Z,36.144401,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:57.154Z,33.808848,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:57.159Z,18.048662,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:57.638Z,24.866018,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:57.643Z,30.053096,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:57.653Z,36.442772,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:57.657Z,35.665549,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:57.663Z,20.16394,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.140Z,24.794776,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.145Z,26.029968,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.156Z,41.026712,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.158Z,35.34168,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:07:58.166Z,21.225687,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.642Z,25.763348,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.652Z,31.443841,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.654Z,37.041788,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.663Z,37.935001,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:58.667Z,21.831311,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:59.145Z,26.562606,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:59.148Z,25.977691,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:07:59.158Z,38.874874,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:59.160Z,33.969495,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:59.174Z,27.518104,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:59.644Z,24.191231,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:59.651Z,30.322218,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:59.663Z,35.074276,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:07:59.665Z,41.115308,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:07:59.669Z,20.729453,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:00.147Z,24.518732,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:00.154Z,31.270698,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:00.161Z,36.96406,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:00.165Z,35.108039,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:00.170Z,19.816707,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:00.642Z,19.07254,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:00.651Z,25.944489,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:00.661Z,29.400961,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:00.664Z,40.005908,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:00.671Z,19.579612,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:01.147Z,22.028519,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:01.153Z,28.097016,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:01.158Z,31.340205,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:01.165Z,32.786837,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:01.173Z,20.47379,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:01.653Z,26.304143,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:01.656Z,29.441676,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:01.667Z,32.703178,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:01.670Z,41.511353,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:01.682Z,26.729074,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.157Z,29.03811,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.165Z,36.714145,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.169Z,34.02604,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.172Z,41.91647,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.179Z,21.03874,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.656Z,26.571704,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.660Z,28.447735,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:02.670Z,40.504745,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.672Z,35.550717,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:02.680Z,20.766784,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:03.153Z,20.59176,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:03.166Z,34.061598,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:03.168Z,35.001559,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:03.180Z,19.499841,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:03.183Z,44.325406,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:03.657Z,22.932873,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:03.672Z,37.830802,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:03.678Z,44.51003,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:03.678Z,37.570884,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:03.684Z,21.197785,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.162Z,26.27106,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.167Z,32.033487,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.175Z,39.295419,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.186Z,21.485544,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.188Z,45.51379,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.661Z,24.113747,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.670Z,25.714133,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.677Z,38.838085,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.680Z,43.575267,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:04.686Z,19.953749,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:05.163Z,24.490267,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:05.169Z,29.826014,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:05.180Z,42.102017,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:05.182Z,36.326206,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:05.192Z,23.972972,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:05.664Z,23.560371,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:05.674Z,26.636094,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:05.677Z,37.149239,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:05.688Z,18.960322,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:05.689Z,48.674107,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:06.166Z,22.905239,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:06.180Z,38.149462,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:06.182Z,33.180344,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:06.184Z,41.648377,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:06.191Z,21.39028,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:06.675Z,31.276579,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:06.685Z,35.695469,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:06.688Z,42.850003,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:06.695Z,23.313887,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:06.697Z,53.715453,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.170Z,24.242957,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.174Z,22.91887,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.182Z,35.8113,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.185Z,39.963078,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.193Z,19.402957,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.672Z,24.062893,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.683Z,35.883606,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.685Z,32.573417,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.688Z,40.085173,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:07.694Z,18.210224,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:08.184Z,35.507372,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:08.185Z,35.726753,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:08.188Z,38.378829,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:08.191Z,36.844078,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:08.197Z,19.282923,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:08.677Z,26.627795,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:08.684Z,32.850589,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:08.690Z,38.788839,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:08.693Z,37.114362,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:08.698Z,19.077729,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:09.176Z,23.218649,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:09.188Z,35.148034,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:09.191Z,33.091058,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:09.194Z,41.393615,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:09.199Z,18.293585,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:09.679Z,24.602648,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:09.687Z,33.551614,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:09.694Z,39.245947,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:09.697Z,37.899566,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:09.702Z,20.33287,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:10.179Z,23.36395,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:10.190Z,33.32968,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:10.193Z,37.377668,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:10.194Z,33.419079,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:10.206Z,22.840881,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:10.680Z,21.778224,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:10.688Z,30.938844,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:10.694Z,37.850423,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:10.697Z,34.569073,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:10.703Z,17.827632,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:11.182Z,23.576154,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:11.193Z,34.022126,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:11.196Z,38.12192,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:11.198Z,33.723758,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:11.205Z,18.412711,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:11.682Z,22.584309,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:11.693Z,33.203366,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:11.695Z,33.988256,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:11.697Z,31.105237,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:11.707Z,19.296317,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:12.186Z,24.682024,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:12.198Z,35.685119,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:12.201Z,40.039271,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:12.204Z,37.431366,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:12.209Z,19.648758,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:12.694Z,30.547991,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:12.698Z,34.150515,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:12.711Z,46.570568,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:12.712Z,44.031175,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:12.716Z,24.850257,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:13.196Z,30.547377,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:13.203Z,32.442097,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:13.205Z,40.224848,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:13.208Z,42.929536,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:13.214Z,21.792432,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:13.694Z,28.0272,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:13.701Z,34.698448,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:13.703Z,30.837108,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:13.712Z,44.324317,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:13.716Z,23.439357,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:14.194Z,26.649345,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:14.206Z,37.516504,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:14.215Z,46.418296,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:14.218Z,44.1479,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:14.221Z,26.612367,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:14.692Z,22.246173,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:14.697Z,27.94888,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:14.708Z,33.351973,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:14.711Z,40.736685,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:14.716Z,20.763901,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:15.192Z,19.857884,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:15.202Z,30.670057,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:15.208Z,35.615669,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:15.213Z,36.339826,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:15.217Z,20.055837,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:15.699Z,25.20985,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:15.702Z,29.194269,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:15.711Z,33.437809,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:15.716Z,43.010036,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:15.720Z,21.866296,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:16.196Z,21.277146,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:16.203Z,28.380758,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:16.211Z,36.017104,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:16.216Z,36.113761,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:16.221Z,20.530472,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:16.714Z,37.667099,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:16.722Z,21.344972,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:16.733Z,57.83747,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:16.734Z,56.239663,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:16.742Z,60.754794,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:17.201Z,24.704229,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:17.219Z,41.327071,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:17.221Z,38.765758,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:17.222Z,43.535238,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:17.228Z,25.654148,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:17.708Z,30.113079,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:17.710Z,32.174211,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:17.720Z,36.127635,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:17.726Z,45.64002,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:17.730Z,25.185953,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:18.206Z,24.37898,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:18.210Z,30.023239,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:18.219Z,33.274799,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:18.223Z,42.777952,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:18.228Z,21.476595,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:18.711Z,29.863639,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:18.712Z,28.774229,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:18.723Z,35.422421,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:18.726Z,43.85902,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:18.731Z,22.98358,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.210Z,27.052301,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.222Z,39.221013,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.225Z,36.739466,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.226Z,41.086139,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.231Z,21.948476,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.705Z,18.994244,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:19.716Z,31.33796,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.721Z,36.800862,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.725Z,34.888612,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:19.729Z,18.497787,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.211Z,24.351003,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.215Z,26.622724,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.225Z,33.261864,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.229Z,42.960362,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.233Z,20.391477,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.713Z,25.701112,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:20.717Z,27.101828,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.725Z,37.488829,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.728Z,35.565453,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:20.752Z,37.967621,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:21.215Z,25.072929,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:21.232Z,40.278885,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:21.233Z,43.137866,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:21.235Z,40.940904,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:21.240Z,24.332833,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:21.715Z,24.186957,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:21.727Z,33.205859,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:21.733Z,38.080204,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:21.737Z,45.461855,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:21.746Z,29.561982,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.215Z,22.928033,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.228Z,36.143771,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.232Z,37.032777,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.235Z,38.048946,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.239Z,20.519105,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.722Z,27.993661,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.724Z,27.540035,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.736Z,37.261487,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:22.738Z,43.275786,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:22.743Z,22.261082,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:23.219Z,24.159272,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:23.226Z,30.266851,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:23.232Z,32.629373,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:23.235Z,36.139165,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:23.240Z,18.513926,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:23.719Z,22.056978,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:23.729Z,32.35246,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:23.731Z,31.248504,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:23.737Z,34.97069,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:23.743Z,19.708731,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:24.218Z,18.944628,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:24.228Z,29.115437,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:24.234Z,30.253219,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:24.237Z,35.343842,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:24.243Z,18.567996,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:24.725Z,24.352863,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:24.738Z,34.322985,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:24.738Z,38.030399,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:24.742Z,36.7543,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:24.746Z,19.897321,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.226Z,24.005606,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.231Z,28.993955,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.240Z,34.014823,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:25.245Z,40.289933,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.249Z,21.143292,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.733Z,24.748072,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.735Z,30.936781,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.742Z,38.321866,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.745Z,38.68716,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:25.753Z,23.249597,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:26.229Z,24.191917,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:26.232Z,26.637663,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:26.236Z,28.164424,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:26.242Z,32.175876,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:26.246Z,15.706539,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:26.730Z,23.468572,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:26.736Z,24.733987,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:26.748Z,38.053545,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:26.751Z,44.242237,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:26.759Z,26.408463,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.233Z,24.28062,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.237Z,28.022813,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.247Z,34.112692,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.250Z,38.746454,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.255Z,21.340568,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.735Z,23.271233,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:27.741Z,30.996411,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.760Z,45.858922,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.762Z,26.409328,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:27.763Z,52.517961,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:28.234Z,20.176472,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:28.240Z,28.237203,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:28.250Z,34.44791,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:28.254Z,41.42669,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:28.261Z,24.309155,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:28.742Z,29.231659,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:28.749Z,33.503498,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:28.756Z,39.991726,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:28.765Z,51.413151,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:28.767Z,28.458222,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:29.241Z,25.909871,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:29.255Z,38.004891,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:29.257Z,39.002705,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:29.259Z,43.427337,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:29.264Z,24.136739,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:29.742Z,25.108579,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:29.747Z,27.173945,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:29.759Z,40.842675,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:29.762Z,43.842681,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:29.772Z,29.195127,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:30.241Z,21.182371,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:30.245Z,25.653491,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:30.254Z,35.434433,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:30.258Z,37.665122,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:30.267Z,21.948596,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:30.749Z,29.533368,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:30.751Z,29.608839,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:30.757Z,35.352699,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:30.767Z,44.983567,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:30.770Z,23.943188,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:31.247Z,26.363664,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.254Z,30.702902,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.267Z,43.988389,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.269Z,45.097119,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.273Z,24.845516,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.754Z,32.18508,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.756Z,31.752854,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.767Z,43.116127,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.770Z,46.484215,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:31.775Z,25.867591,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:32.252Z,27.818447,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:32.256Z,29.525331,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:32.264Z,38.695326,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:32.270Z,43.114018,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:32.277Z,25.333778,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:32.760Z,30.843788,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:32.760Z,34.202535,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:32.766Z,38.610228,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:32.773Z,44.603448,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:32.778Z,25.775659,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:33.248Z,17.972469,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:33.264Z,37.143584,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:33.266Z,35.500028,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:33.270Z,39.885222,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:33.276Z,21.650564,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:33.767Z,39.040127,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:33.768Z,37.304051,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:33.769Z,36.842947,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:33.779Z,47.534888,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:33.791Z,35.590249,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:34.260Z,29.972446,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:34.267Z,34.610289,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:34.271Z,37.523699,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:34.275Z,41.827403,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:34.291Z,34.147797,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:34.756Z,24.672127,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:34.769Z,34.142036,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:34.773Z,39.079808,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:34.776Z,42.001077,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:34.781Z,21.625717,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:35.263Z,26.502093,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:35.265Z,31.912952,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:35.266Z,31.379911,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:35.273Z,36.642991,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:35.279Z,18.628655,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:35.768Z,29.8703,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:35.769Z,30.591671,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:35.775Z,40.594445,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:35.782Z,45.216505,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:35.797Z,34.856356,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:36.263Z,26.373999,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:36.276Z,36.630827,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:36.278Z,39.278758,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:36.281Z,41.849497,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:36.287Z,23.28684,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:36.766Z,25.820792,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:36.772Z,31.767316,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:36.785Z,46.11773,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:36.793Z,25.895304,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:36.793Z,52.279766,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:37.263Z,21.030909,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:37.268Z,26.678243,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:37.277Z,37.170977,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:37.280Z,37.116438,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:37.287Z,17.856863,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:37.774Z,29.350606,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:37.774Z,32.760853,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:37.782Z,38.291411,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:37.785Z,41.67034,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:37.790Z,18.920071,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:38.269Z,26.152679,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:38.275Z,29.366965,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:38.283Z,37.032799,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:38.287Z,39.910295,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:38.293Z,19.599976,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:38.776Z,28.290636,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:38.776Z,32.092568,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:38.780Z,33.553778,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:38.786Z,37.381163,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:38.792Z,17.060479,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:39.272Z,23.142801,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:39.282Z,36.378121,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:39.284Z,35.821092,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:39.287Z,37.099122,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:39.293Z,16.582045,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:39.780Z,32.801488,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:39.783Z,31.313853,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:39.789Z,37.635576,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:39.791Z,40.729557,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:39.797Z,16.914975,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:40.274Z,25.597095,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:40.282Z,30.738771,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:40.288Z,33.689625,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:40.291Z,37.240414,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:40.301Z,19.611834,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:40.779Z,29.468879,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:40.785Z,29.917627,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:40.789Z,35.650461,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:40.794Z,38.504719,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:40.803Z,19.439807,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.276Z,24.387841,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.282Z,25.201709,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.291Z,33.696641,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.293Z,37.80501,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.303Z,17.889953,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.781Z,24.486273,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.785Z,31.688359,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.790Z,31.357693,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:41.793Z,34.301338,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:41.807Z,19.431303,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.277Z,21.95118,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:42.282Z,23.532074,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.291Z,30.964045,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.293Z,32.019008,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.307Z,18.5279,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.781Z,23.847368,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.786Z,24.962092,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.793Z,31.159544,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.796Z,33.468654,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:42.809Z,18.314763,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:43.283Z,25.161608,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:43.288Z,24.573601,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:43.296Z,32.721083,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:43.298Z,35.767044,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:43.332Z,40.17686,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:43.784Z,23.89405,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:43.798Z,34.610774,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:43.801Z,37.150518,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:43.803Z,38.74948,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:43.808Z,15.767899,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:44.286Z,24.007331,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:44.291Z,24.194795,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:44.300Z,33.145747,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:44.302Z,36.661285,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:44.314Z,19.42287,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:44.797Z,33.544428,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:44.797Z,28.745963,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:44.808Z,39.526998,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:44.813Z,45.728088,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:44.817Z,21.835342,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:45.290Z,25.381271,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:45.295Z,24.65475,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:45.303Z,32.954778,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:45.306Z,37.638741,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:45.317Z,18.583255,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:45.796Z,30.47927,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:45.800Z,30.15033,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:45.821Z,49.573409,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:45.821Z,49.763213,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:45.838Z,38.157516,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:46.295Z,27.755511,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:46.299Z,27.774212,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:46.308Z,35.868915,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:46.312Z,38.710902,6327,Carbon credits,/Business-farming-industry/Carbon-credits,id:1,price:0,id:2,price:2,id:3,price:10,id:4,price:15
+2023-03-13T22:08:46.318Z,17.366071,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:46.792Z,20.277063,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:46.800Z,25.772964,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:46.806Z,37.779499,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:46.809Z,34.356271,6333,Royalty,/Books/Nonfiction/Biography/Royalty,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:46.820Z,17.843692,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.297Z,26.048801,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.302Z,28.501307,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:47.311Z,34.780497,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.313Z,36.218599,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.330Z,26.248153,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.799Z,26.238692,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.804Z,28.730261,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.812Z,34.556935,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.816Z,38.013227,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:47.826Z,20.290594,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:48.299Z,24.883622,6336,Fish,/Books/Nonfiction/Pets/Fish,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:48.305Z,24.442127,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:48.316Z,36.309871,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:48.317Z,39.83241,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:48.325Z,18.383908,6330,Business & technology,/Books/Magazines/Business-technology,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:48.800Z,23.477104,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:48.805Z,26.434106,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:48.813Z,31.685918,6328,Badges,/Antiques-collectables/Militaria/Badges,id:1,price:0,id:2,price:0.55,id:3,price:3.45,id:4,price:3.95
+2023-03-13T22:08:48.816Z,33.997653,6331,Automotive & aviation,/Books/Magazines/Automotive-aviation,
+2023-03-13T22:08:48.827Z,18.837186,6329,Home & garden,/Books/Magazines/Home-garden,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:49.302Z,23.80743,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:49.310Z,26.937104,6334,Dogs,/Books/Nonfiction/Pets/Dogs,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:49.314Z,33.744158,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:49.332Z,22.442135,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:49.807Z,22.181448,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:49.836Z,24.19297,6332,Art & craft,/Books/Magazines/Art-craft,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
+2023-03-13T22:08:50.332Z,18.978981,6335,Cats,/Books/Nonfiction/Pets/Cats,id:1,price:0,id:2,price:0.25,id:3,price:0.75,id:4,price:0.95
