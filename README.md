@@ -122,7 +122,7 @@ Several assumptions were made for this technical assignment.
 - Please ensure that your firewall doesn't block 
   - k6.io server, as the script obtains one of the methods from https://jslib.k6.io/
   - githubusercontent.com, as the script obtains html report method from there. 
-- I've tested the solution on **Ubuntu 18.04 VM (X86-64)** located in **Australia** and **MacOS Ventura 13.0 (ARM)** located in **Georgia**. Note that for other architectures you have to compile k6 + xk6-file by your own.
+- I've tested the solution on **Ubuntu 18.04 VM (X86-64)**, **Debian 11.4** located in **Australia** and **MacOS Ventura 13.0 (ARM)** located in **Georgia**. Note that for other architectures you have to compile k6 + xk6-file by your own.
 - Since the system under test has a .co.nz domain, I though it would be reasonable to execute the test not only from Georgia, which is quite far geographically, but also from as close location as possible to save time on receiving data. So, one bulk of results were obtained from **Georgia** (ping **~70ms**) and another bulk from **Australia** (ping **~0.99ms** - probably your server is located in the same datacenter ;-)).
 
 ### Reporting
@@ -170,6 +170,15 @@ There is no instructions on if we should use special mix of test cases, use rand
 
 Assertion requirements doesn't specify what is 'successful' response. In such a case I am considering that any of 2XX code is considered as successful request and check for that.
 
+### Calculations
+It is important to say some words about calculations used in the code/analysis.
+
+For stdev and confidence interval division by count-1 is used everywhere. This is called **Bessel's Correction** and should be used everytime when we deal with sample, not population (but actually almost all measurements we deal with are samples). The more measurements we make the less difference we take between sample and population, however I still use it according the rules.
+
+For stdev calculation tranformation of original formula is used in order to build the value from initial values and their squares. I find this simple transform beautiful and sharing it here.
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/13483378/224968255-f5d01e58-b8f0-44bd-b4c8-b9a724adf3aa.png">
+
+
 # Report
 ## Test goal
 Test the API of the server to ensure that 90% of requests fall into 500ms threshold.
@@ -190,7 +199,7 @@ Threshold will checked by the tool on finish.
 All checks were passed, except **CanRelist=true**, which has different pass rate for different locations. This is related to total quantity of requests to CategoryID **6331** in the mix, which is the single one that has **CanRelist=false** parameter.
 | | Georgia | Australia |
 | --- | --- | --- |
-| OK responses | 100% | 1005 |
+| OK responses | 100% | 100% |
 | CanRelist=true? | 555 of 621 (85%) | 573 of 632 (90%)|
 | is CategoryId proper? | 100% | 100% |
 | Treshold | 426.57 (passed) | 41.79 (passed) |
@@ -201,7 +210,7 @@ It is seen that while test has been executed from Australian data center, more a
 | --- | --- |
 | <img src="supporting_report_files/users_geo.png" width="500"> | <img src="supporting_report_files/users_aus.png" width="500"> |
 ### Response time
-Total quantity of requests is different between Georgia and Australia. This is related to the fact that some request were long in time and there were not enough virtual users to issue proper rps. Once again, please refer to [Virtual users / threads concept](#virtual-users--threads-concept) ;-).
+Total quantity of requests is different between Georgia and Australia. This is related to the fact that some requests were long in time and there were not enough virtual users to issue proper rps. Once again, please refer to [Virtual users / threads concept](#virtual-users--threads-concept) ;-).
 | | Georgia | Australia |
 | --- | --- | --- |
 | Maximum response time, ms | 1409.71 | 137.07 |
@@ -209,7 +218,9 @@ Total quantity of requests is different between Georgia and Australia. This is r
 | 95p response time, ms | 432.32 | 45.33 |
 | Quantity | 621 | 632 |
 
-We see that reponse time collected from Georgia is much higher comparing to the Australia with much worse outliers in the beginning of the test reaching almost 1.5 seconds. This is related to the distance between server and Georgia (much higher ping). We can see outstanding difference in the same chart zoom.
+We see that reponse time collected from Georgia is much higher comparing to the Australia with much worse outliers in the beginning of the test reaching almost 1.5 seconds. This is related to the distance between server and Georgia (much higher ping). It seems like outliers are most probably related to network waiting, per statistics maximum time for waiting TCP slot and establishing TLS handshaking may take hundreds of milliseconds.
+
+We can see outstanding difference in the same chart zoom.
 | Georgia | Australia |
 | --- | --- |
 | <img src="supporting_report_files/response_geo.png" width="500"> | <img src="supporting_report_files/response_aus.png" width="500"> |
@@ -227,7 +238,7 @@ Here we must note the following:
 I personally prefer to use confidence interval (aka CI) to use for the results processing. There are three reasons for that:
 - Confidence interval is very convinient to understand: it is an interval in which reponse will fall with a certain level of probability.
 - While comparing two result sets, we can substract one interval from other and if the result will contain 0, then we can conclude that samples are equal
-- It's also very cool to illustrate graphically. For example :
+- It's also very cool to illustrate graphically. For example:
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/13483378/224897643-6c51404a-bb70-4da1-93e5-98c7165ebba8.png">
 So I've calculated these stats for our experiments:
 
