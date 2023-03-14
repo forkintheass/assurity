@@ -187,7 +187,7 @@ Threshold will checked by the tool on finish.
 - Additional statistics for the experiments: **Standard Deviation** and **Confidence Interval**
 ## Results
 ### Checks
-All checks were passed, except CanRelist=true, which has different pass rate for different locations. This is related to final quantity of requests to CategoryID 6331 in the mix, which is the single one that has CanRelist=false parameter.
+All checks were passed, except **CanRelist=true**, which has different pass rate for different locations. This is related to total quantity of requests to CategoryID **6331** in the mix, which is the single one that has **CanRelist=false** parameter.
 | | Georgia | Australia |
 | --- | --- | --- |
 | OK responses | 100% | 1005 |
