@@ -102,7 +102,7 @@ const sleep_time = 1 / (defined_rps/vu_qty) - response.timings.duration/1000;
 // if we are behind schedule, then sleep should be 0; we will put message about that.
 if (sleep_time < 0) {
   sleep(0);
-  console.log('probably there is not enough vu to request necessary rate')
+  console.log('probably there is not enough vu to produce necessary rate')
 } else {
   sleep(sleep_time);
 }
